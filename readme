@@ -12,8 +12,12 @@ test2
 modify remote master
 modify local master
 test1
+
 test
 local 1
 local 2
+
+rebase
+
 
 
